@@ -1,0 +1,7 @@
+Saya Davin mengerjakan evaluasi LATIHAN12DPBO2023 dalam mata kuliah DPBO 
+untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
+Alasan MVVM
+
+-   Saya adalah seorang programmer solo, sehingga akan lebih simple dan cepat bagi saya
+    untuk menerapkan MVVM dibandingkan MVP sebab tidak memerlukan inteface kontrak
